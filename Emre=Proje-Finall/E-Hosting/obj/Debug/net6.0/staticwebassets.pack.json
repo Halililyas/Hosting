@@ -1,0 +1,829 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E-Hosting.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Hosting.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\css\\main.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\css\\util.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\index.html",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\js\\main.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\KullanıcıLogin\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\KullanıcıLogin\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\about.html",
+      "PackagePath": "staticwebassets\\tmp\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\contact.html",
+      "PackagePath": "staticwebassets\\tmp\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\tmp\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\tmp\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\tmp\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\css\\style.css",
+      "PackagePath": "staticwebassets\\tmp\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\tmp\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\css\\style.scss",
+      "PackagePath": "staticwebassets\\tmp\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\tmp\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\tmp\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\tmp\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\client.jpg",
+      "PackagePath": "staticwebassets\\tmp\\images\\client.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\fevicon.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\fevicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\tmp\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\nav-bullet.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\nav-bullet.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\pay-img.jpg",
+      "PackagePath": "staticwebassets\\tmp\\images\\pay-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\tmp\\images\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s1.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\s1.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\tmp\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s2.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\s2.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\tmp\\images\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s3.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\s3.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s4.jpg",
+      "PackagePath": "staticwebassets\\tmp\\images\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s4.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\s4.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s5.jpg",
+      "PackagePath": "staticwebassets\\tmp\\images\\s5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s5.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\s5.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\s6.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\s6.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\server-img.jpg",
+      "PackagePath": "staticwebassets\\tmp\\images\\server-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\server-img.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\server-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\tmp\\images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\index.html",
+      "PackagePath": "staticwebassets\\tmp\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\tmp\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\js\\custom.js",
+      "PackagePath": "staticwebassets\\tmp\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\tmp\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\price.html",
+      "PackagePath": "staticwebassets\\tmp\\price.html"
+    },
+    {
+      "Id": "C:\\Users\\hızır\\Desktop\\Emre=Proje-Finall\\E-Hosting\\wwwroot\\tmp\\service.html",
+      "PackagePath": "staticwebassets\\tmp\\service.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.E-Hosting.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.E-Hosting.props",
+      "PackagePath": "build\\E-Hosting.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Hosting.props",
+      "PackagePath": "buildMultiTargeting\\E-Hosting.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.E-Hosting.props",
+      "PackagePath": "buildTransitive\\E-Hosting.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

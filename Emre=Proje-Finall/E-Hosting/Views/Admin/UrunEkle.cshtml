@@ -1,0 +1,55 @@
+﻿@using Entity.Concreate;
+@model Product
+@{
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+<link rel="stylesheet" href="sweetalert2.min.css">
+<div style="background-color:red;width:100vw;display:flex;justify-content:center;flex-direction:column">
+
+    <h1 style="text-align:center">MERHABA BURASI Urun Ekleme SAYFASI</h1>
+
+
+    <div class="container" style="display:flex;justify-content:center">
+        <form style="width:20%" method="post" asp-action="UrunEkle">
+            <label>Urun Adet </label><br />
+            <input type="text" class="form-control" asp-for="@Model"><br />
+
+            <label>Urun Adı </label><br />
+            <input type="text" class="form-control" asp-for="@Model.UrunAdı"><br />
+
+            <label>Urun Image</label><br />
+            <input class="form-control" asp-for="@Model"></><br />
+
+            <label>Urun Image</label><br />
+            <input class="form-control" asp-for="@Model"></><br />
+
+
+            <label>Urun Kategory</label><br />
+            <input type="text" class="form-control" asp-for="@Model"><br />
+
+            <label>Fiyat</label><br />
+            <input type="text" class="form-control" asp-for="@Model.UrunFiyat" /><br />
+
+            <input type="submit" class="btn btn-warning" value="GÜNCELLE"><br />
+
+
+
+        </form>
+
+    </div>
+</div>
+
+@if (ViewBag.SuccessMessage != null)
+{
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        Swal.fire({
+            title: "Success!",
+            text: "@ViewBag.SuccessMessage",
+            icon: "success",
+            button: "OK"
+        });
+    </script>
+
+}
+

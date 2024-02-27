@@ -1,0 +1,17 @@
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\bin\Debug\net6.0\DataAccesLeyaer.deps.json
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\bin\Debug\net6.0\DataAccesLeyaer.dll
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\bin\Debug\net6.0\DataAccesLeyaer.pdb
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\bin\Debug\net6.0\DcFramworkCore.dll
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\bin\Debug\net6.0\Entity.dll
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\bin\Debug\net6.0\DcFramworkCore.pdb
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\bin\Debug\net6.0\Entity.pdb
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\DataAccesLeyaer.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\DataAccesLeyaer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\DataAccesLeyaer.AssemblyInfoInputs.cache
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\DataAccesLeyaer.AssemblyInfo.cs
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\DataAccesLeyaer.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\DataAccesLeyaer.csproj.CopyComplete
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\DataAccesLeyaer.dll
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\refint\DataAccesLeyaer.dll
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\DataAccesLeyaer.pdb
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DataAccesLeyaer\obj\Debug\net6.0\ref\DataAccesLeyaer.dll

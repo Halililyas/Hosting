@@ -1,0 +1,41 @@
+﻿@using Entity.Concreate;
+@model Product
+@{
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 mx-auto mt-3">
+            <form method="post" asp-action="UrunSil" asp-controller="Admin">
+                <div class="form-group">
+                    <label>Urun Id </label><br />
+                    <input type="text" name="id" formControlName="name" placeholder="Ürün Id" asp-for="@Model" class="form-control">
+                    <input type="submit" class="btn btn-warning" value="Sil"><br />
+            </form>
+
+        </div><br />
+
+
+
+    </div>
+
+</div>
+</div>
+
+
+@if (ViewBag.SuccessMessage != null)
+{
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        Swal.fire({
+            title: "Success!",
+            text: "@ViewBag.SuccessMessage",
+            icon: "success",
+            button: "OK"
+        });
+    </script>
+
+}
+
+

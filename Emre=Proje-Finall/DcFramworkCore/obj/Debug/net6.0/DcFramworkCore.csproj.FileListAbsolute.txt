@@ -1,0 +1,17 @@
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\bin\Debug\net6.0\DcFramworkCore.deps.json
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\bin\Debug\net6.0\DcFramworkCore.runtimeconfig.json
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\bin\Debug\net6.0\DcFramworkCore.dll
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\bin\Debug\net6.0\DcFramworkCore.pdb
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\bin\Debug\net6.0\Entity.dll
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\bin\Debug\net6.0\Entity.pdb
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\DcFramworkCore.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\DcFramworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\DcFramworkCore.AssemblyInfoInputs.cache
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\DcFramworkCore.AssemblyInfo.cs
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\DcFramworkCore.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\DcFramworkCore.csproj.CopyComplete
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\DcFramworkCore.dll
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\refint\DcFramworkCore.dll
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\DcFramworkCore.pdb
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\DcFramworkCore.genruntimeconfig.cache
+C:\Users\hızır\Desktop\Emre=Proje-Finall\DcFramworkCore\obj\Debug\net6.0\ref\DcFramworkCore.dll
